@@ -1,4 +1,4 @@
 .Net + React Auth.
-Lybraries: Ant Design, ahooks, axios.
+Libraries: Ant Design, ahooks, axios.
 Database: Supabase. 
  
